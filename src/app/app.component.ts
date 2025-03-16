@@ -9,5 +9,5 @@ import { ListadoProductosComponent } from "./listado-productos/listado-productos
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'mini-tienda';
+  titulo = 'mini-tienda';
 }
